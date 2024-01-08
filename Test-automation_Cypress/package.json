@@ -1,0 +1,20 @@
+{
+  "name": "cypress-login-automation",
+  "version": "1.0.0",
+  "description": "Test automation for login functionality (the-internet.herokuapp.com) using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "atomation",
+    "cypress",
+    "login-functionality",
+    "testing"
+  ],
+  "author": "Ewa Szlachcic",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.2"
+  }
+}

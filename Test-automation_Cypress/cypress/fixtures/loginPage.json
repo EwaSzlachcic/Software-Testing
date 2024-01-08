@@ -1,0 +1,9 @@
+{
+	"validUsername": "tomsmith",
+	"invalidUsername": "tom",
+	"validPasswd": "SuperSecretPassword!",
+	"invalidPasswd": "Super",
+	"successfulLogin": "You logged into a secure area!",
+	"invalidUsernameError": "Your username is invalid!",
+	"invalidPasswordError": "Your password is invalid!"
+}
